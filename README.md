@@ -1,5 +1,5 @@
 # React courses I have done with Net Feasa
-### Frontend Masters: React and TypeScript, v3, 
+### Frontend Masters: React and TypeScript, v3
 #### Steve Kinney
 
 Version three goes beyond v2’s component props, hooks, and context basics with advanced React + TypeScript patterns like discriminated unions, reducer typing, and reusable generics, plus runtime schema validation with Zod and deeper typing for async data, context, and design systems.
